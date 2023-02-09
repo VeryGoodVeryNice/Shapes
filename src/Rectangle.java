@@ -52,7 +52,7 @@ public class Rectangle extends Shape{
     }
 
     public String toString() {
-        return "A rectangle with width " + width + " and length " + length + ", which is a subclass of " + super.toString();
+        return "a rectangle with width " + width + " and length " + length + ", which is a subclass of " + super.toString();
     }
 
 }
